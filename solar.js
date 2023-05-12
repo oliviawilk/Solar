@@ -535,6 +535,9 @@ function makePieSumGraph(names,watts) {
     
       }]
     },
+    options: {
+    radius: 200,
+    },
 
   });
 }
