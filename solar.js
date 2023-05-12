@@ -481,7 +481,12 @@ function deleteDayCharts() {
 		dailyWattsChart=0;
 	}
 }
-
+// New Functionality
+//
+//
+//
+//
+//
 // Line Chart for each School, by hour
 function makeLineGraphDailyWatts(jsons)
 {
